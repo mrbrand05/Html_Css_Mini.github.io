@@ -46,7 +46,7 @@ COOKINGFOODS
 Run Locally
 Clone the project
 
-  git clone https://mrbrand05.github.io/Rohit-Interior-Js-mini-project.github.io/
+  git clone https://dreamy-rugelach-b21ac1.netlify.app/index.html
 Go to the project directory
 
   cd my-project
