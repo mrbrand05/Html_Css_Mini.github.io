@@ -1,5 +1,5 @@
 # Html_Css_Mini.github.io
-DESIGN A WEBSITE FOR JS,JQUERY PRACTICE
+DESIGN A WEBSITE FOR PRACTICE
 using html5 css3,js
 
 Acknowledgements
@@ -63,7 +63,6 @@ CSS3:
 
 Boostrap:
 
-Js/Jquery:
 
 Optimizations
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
